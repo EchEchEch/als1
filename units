@@ -1,0 +1,111 @@
+{
+    "units": [{
+        "name": "Nami [+1]",
+        "price": 500.00,
+        "time": 200,
+        "duribility": 12
+    },
+     {
+        "name": "Sonic Ninja [+2]",
+        "price": 1000.00,
+        "time": 180,
+        "duribility": 20
+    },
+      {
+        "name": "Uriu [+3]",
+        "price": 2000.00,
+        "time": 160,
+        "duribility": 7
+    },
+      {
+        "name": "Vesh [+4]",
+        "price": 3000.00,
+        "time": 150,
+        "duribility": 25
+    },
+      {
+        "name": "Curse King (Supressed) [+5]",
+        "price": 4000.00,
+        "time": 140,
+        "duribility": 6
+    },
+      {
+        "name": "Light Admiral(war)",
+        "price": 5000.00,
+        "time": 120,
+        "duribility": 30
+    },
+      {
+        "name": "fLAME aLCHEMIST",
+        "price": 600.00,
+        "time": 100,
+        "duribility": 35
+    },
+    {
+        "name": "Light Admiral [+5]",
+        "price": 700.00,
+        "time": 90,
+        "duribility": 60
+    },
+    {
+        "name": "DBS [+7]",
+        "price": 9000.00,
+        "time": 3,
+        "duribility": 100
+    },
+      {
+        "name": "Misses Love [+6]",
+        "price": 15000.00,
+        "time": 20,
+        "duribility": 150
+    },
+      {
+        "name": "Super Robot 18 [+8]",
+        "price": 30000.00,
+        "time": 85,
+        "duribility": 170
+    },  
+      {
+        "name": "Boifou [+9]",
+        "price": 50000.00,
+        "time": 70,
+        "duribility": 190
+    },     
+      {
+        "name": "Bobak [+10]",
+        "price": 10000.00,
+        "time": 75,
+        "duribility": 2000
+    },
+      {
+        "name": "Green Esper [+15]",
+        "price": 100000.00,
+        "time": 40,
+        "duribility": 1000
+    },
+    {
+        "name": "Red Admiral(war)",
+        "price": 1900000.00,
+        "time": 45,
+        "duribility": 5000
+    },
+    {
+      "name": "Ichiko(Masked) [Lucky +1]",
+      "price": "20000000.00",
+      "time": 10,
+      "duribility": 10000
+    },
+    {
+      "name": "Boldy(serious) [Lucky,fast +100]",
+      "price": "20000000.00",
+      "time": 15,
+      "duribility": 100000
+    },
+    {
+      "name": "Red Pirates [Lucky,fast +100]",
+      "price": "1000000000000.00",
+      "time": 0,
+      "duribility": 1
+     }
+  ]
+}
